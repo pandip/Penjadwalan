@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Penjadwalan Sesi</string>
+    <string name="nim">NIM</string>
+    <string name="nama">Nama</string>
+    <string name="kelas">Kelas</string>
+    <string name="sesi">Sesi</string>
+    <string name="pagi">Pagi (09.00 - 11.00)</string>
+    <string name="siang">Siang (13.00 - 15.00)</string>
+    <string name="sore">Sore (16.00 - 18.00)</string>
+    <string name="register">Jadwalkan</string>
+    <string name="error">Kesalahan Koneksi</string>
+
+    <string name="lihat">Lihat Data</string>
+</resources>
